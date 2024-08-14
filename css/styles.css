@@ -529,6 +529,7 @@ progress {
   font-weight: 300;
   line-height: .7;
   margin-bottom: 1rem;
+  margin-top: -1rem;
 }
 @media (min-width: 1200px) {
   .display-4 {
