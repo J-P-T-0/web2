@@ -1,2 +1,2 @@
 # web2
-Link: https://github.com/J-P-T-0/web2.git
+Link: https://j-p-t-0.github.io/web2/
